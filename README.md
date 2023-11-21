@@ -14,5 +14,5 @@ The full program can be run using 'python main.py'. Choose one of 'Best', 'Overs
 Initially, the robotic arm was oscillating a lot and not reliably picking up the cube. To address this, different Kp and Ki values were tried, with Kp = 30 and Ki = 0.75 found to be optimal. Low Kp and Ki values typically resulted in overshooting and high oscillation. On the other hand, high Ki values typically exacerbated existing errors in the trajectory generation. More information can be seen in the results folder.
 
 ## Future Work
-Adaptive Control: Implementing adaptive control strategies to enable the robot to adjust its behavior based on environmental changes.
-Machine Learning Integration: Exploring the integration of machine learning algorithms for predictive control and autonomous decision-making.
+- Adaptive Control: Implementing adaptive control strategies to enable the robot to adjust its behavior based on environmental changes.
+- Machine Learning Integration: Exploring the integration of machine learning algorithms for predictive control and autonomous decision-making.
